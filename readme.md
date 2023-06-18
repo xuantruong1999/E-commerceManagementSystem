@@ -26,5 +26,3 @@ Technical Specifications:
 3. Utilize a database to store information about products and orders. You can use a database such as MySQL or PostgreSQL.
 4. Apply software design principles such as SOLID, MVC (Model-View-Controller), or the Clean Architecture pattern.
 5. Integrate testing tools to ensure the correctness and stability of the application.
-
-Please note that this is a translated version of the provided information. If there are specific terms or phrases that need further clarification or adjustment, feel free to let me know.
